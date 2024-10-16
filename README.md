@@ -2,9 +2,9 @@
 
 <h3> 👨🏻‍💻  About Me </h3>
 
-🤔 What do you like to do: Hip-hop and street jazz dance, sketching and video editing.
+🤔 What do you like to do: Hip-hop and street jazz dance, pencil sketching and video editing.
 
-🎓 What's your educational background: Bachelor's degree from Princeton University.
+🎓 What's your educational background: Bachelor's degree in International Affairs from Princeton University.
 
 💼 What are you planning on doing for work: Cloud Infrastructure Engineering
 
