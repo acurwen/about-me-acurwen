@@ -6,23 +6,23 @@
 
 🎓 What's your educational background: Bachelor's degree from Princeton University.
 
-💼 What are you planning on doing for work: Not sure yet.
+💼 What are you planning on doing for work: Cloud Infrastructure Engineering
 
-🌱 Currently working on: Reviewing Pre-Cohort 5 resources. 
+🌱 Currently working on: deploying an open source banking application and simulating fake transactions for it. 
 
 <h3> 🛠  Tech Stack</h3>
 
-💻
+💻 Amazon Web Services
 
-🌐
+🌐 Jenkins
 
-🛢
+🛢 Terraform
 
-⚙️
+⚙️ BASH
 
-🔧
+🔧 Python
 
-🖥
+🖥 CloudWatch
 
 <br/>
 
